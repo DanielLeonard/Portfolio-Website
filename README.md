@@ -1,3 +1,3 @@
 # Portfolio-Website
 
-(https://DanielLeonard.github.io/index.html)
+(https://DanielLeonard.github.io/Portfolio-Website/index.html)

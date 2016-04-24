@@ -1,0 +1,167 @@
+{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+/*--nav---*/
+
+.nav{
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+   
+    background-color: white;
+    padding-bottom: 1em;
+    padding-top: 2em;
+    
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding-left:7em;
+    padding-right: 7em;
+    padding-bottom: 0.5em;
+    font-size: auto;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+
+/*--text---*/
+body
+    {font-family: 'Open Sans', sans-serif;
+        background-color: #F2F2F2;
+    }
+h1 
+    {
+    text-align: center;
+    font-size: 600%;
+    color: #292F36;
+    text-transform: uppercase;
+    letter-spacing: 1%;
+   margin-bottom: 35%;
+        margin-top: -3%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 300%;
+    color: #292F36;
+    text-transform: uppercase;
+    letter-spacing: 1%;
+    margin-bottom: 1EM;
+    margin-top: 1EM;
+}
+
+p{
+text-align: left;
+padding: 1em;
+    padding-left: 10em;
+padding-right: 10em;
+color: #292F36;}
+
+blockquote{font-size: 2em;
+font-style: oblique;
+font-weight: 600;
+color: #292F36;}
+
+
+.para1 {
+    text-align: center;
+text-align-last: center;
+margin-bottom: -3em;
+    background-color: ; 
+    padding-bottom: 3em;
+    padding-top: 3em;
+
+}
+
+.para2 {
+    text-align: center;
+text-align-last: center;
+margin-bottom: -3em;
+    padding-bottom: 3em;
+    padding-top: 3em;
+
+}
+
+.para3 {
+    text-align: center;
+text-align-last: center;
+margin-bottom: -3em;
+    padding-bottom: 3em;
+    padding-top: 3em;
+}
+
+
+.inside{
+   
+padding-left: 1em;
+padding-bottom: 1em;
+padding-top: 1px;}
+
+
+/*--Start Parrallax--*/
+
+.parallax {
+    background: url(../images/sky.jpg) repeat fixed;
+    background-size: 99%;
+}
+.parallax-inner { padding-top: 25%;
+    padding-bottom: 7%;
+    margin-bottom: -3em
+}
+
+/*--End Parrallax--*/
+
+/*--images--*/
+img{
+    width: 50%;
+}
+
+.me{ 
+    width: 25em;
+    margin-top: -9em;
+    align-items: center;
+    border-style: solid;
+    border-color:  #00D3AB;
+    border-width: 2px;
+    box-shadow: 0px 0px 0px #00D3AB;
+}
+
+.email{ 
+    width: 10em;
+}
+
+.monogram {
+    width:25em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30em;
+    fill: red;
+  }
+.monogram:hover{width: 27em;}
+/*--links-to-port--*/
+.linkimg { 
+    width: 25%;
+    opacity: 0.8;
+    margin: 3em;
+    padding-left: 0.1em;
+    padding-right: 0.1em;
+}
+
+
+
+.linkimg:hover {opacity: 1;
+ }
+
+
+.textblock{ display:block;}
+
+blockquote{font-size: 2em;}
+
